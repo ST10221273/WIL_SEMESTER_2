@@ -1,0 +1,90 @@
+/* ============================================
+   Mzansi Auto Repairs - Global Styles
+   ============================================ */
+:root {
+    --primary: #1a3a5c;
+    --primary-dark: #0f2640;
+    --secondary: #d4a843;
+    --text-light: #6b6b6b;
+    --bg-light: #f8f9fa;
+    --shadow: 0 4px 15px rgba(0,0,0,0.08);
+    --shadow-hover: 0 8px 30px rgba(0,0,0,0.15);
+    --radius: 12px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: var(--bg-light);
+    color: #2d2d2d;
+    padding-top: 70px;
+}
+
+/* Navbar */
+.navbar { background: linear-gradient(135deg, #1a3a5c, #0f2640) !important; box-shadow: 0 2px 10px rgba(0,0,0,0.3); }
+.navbar .nav-link { color: rgba(255,255,255,0.9) !important; font-weight: 500; padding: 8px 16px; border-radius: 6px; transition: all 0.3s ease; }
+.navbar .nav-link:hover,
+.navbar .nav-link.active { background: #d4a843; color: #0f2640 !important; }
+.navbar .btn-warning { background: #d4a843; border-color: #d4a843; color: #0f2640; font-weight: 600; }
+.navbar .btn-warning:hover { background: #e8c86a; border-color: #e8c86a; }
+
+/* Buttons */
+.btn-primary { background: #1a3a5c; border-color: #1a3a5c; transition: all 0.3s ease; }
+.btn-primary:hover { background: #0f2640; border-color: #0f2640; transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+.btn-warning { background: #d4a843; border-color: #d4a843; color: #0f2640; font-weight: 600; }
+.btn-warning:hover { background: #e8c86a; border-color: #e8c86a; transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+
+/* Cards */
+.card, .service-card, .vehicle-card, .booking-card, .review-card, .message-card {
+    transition: all 0.3s ease;
+}
+.card:hover, .service-card:hover, .vehicle-card:hover, .booking-card:hover, .review-card:hover, .message-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-hover);
+}
+
+/* Toast Notifications */
+.toast-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+.toast-item {
+    background: white;
+    padding: 16px 24px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-hover);
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    animation: slideInRight 0.3s ease;
+    border-left: 4px solid #d4a843;
+    max-width: 400px;
+}
+.toast-item.success { border-left-color: #27ae60; }
+.toast-item.error { border-left-color: #e74c3c; }
+@keyframes slideInRight {
+    from { transform: translateX(100px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+/* Modal */
+.modal-content { border-radius: 16px; border: none; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+.modal-header { border-bottom: none; padding-bottom: 0; }
+.modal-footer { border-top: none; }
+
+/* Footer */
+footer { background: #1a1a2e !important; margin-top: 50px; }
+footer a { color: #aaa; transition: all 0.3s ease; text-decoration: none; }
+footer a:hover { color: #d4a843; padding-left: 5px; }
+
+/* Responsive */
+@media (max-width: 768px) {
+    body { padding-top: 60px; }
+    .navbar .nav-link { padding: 8px 12px !important; }
+    .hero-section { padding: 100px 0 60px; text-align: center; }
+    .hero-section h1 { font-size: 2rem !important; }
+}
