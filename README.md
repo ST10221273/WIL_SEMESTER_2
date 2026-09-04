@@ -373,6 +373,15 @@ The application will automatically seed:
 ### Firebase
 <img width="1297" height="592" alt="Screenshot 2026-09-04 085702" src="https://github.com/user-attachments/assets/bd3e19eb-c4e4-4c14-a38a-df413f59f5f2" />
 
+<img width="1297" height="637" alt="Screenshot 2026-09-04 085908" src="https://github.com/user-attachments/assets/13a20139-e5fe-4c1a-9ae8-178e65c8f34c" />
+
+<img width="1288" height="619" alt="Screenshot 2026-09-04 085941" src="https://github.com/user-attachments/assets/74e22c96-5dda-4109-9756-fa3000d98572" />
+
+<img width="1275" height="592" alt="Screenshot 2026-09-04 085958" src="https://github.com/user-attachments/assets/f6fb7960-85db-4e94-b8d1-846bbaf08c9f" />
+
+<img width="1280" height="598" alt="Screenshot 2026-09-04 090015" src="https://github.com/user-attachments/assets/f8d382f2-579b-4a68-ad98-564887b06cbe" />
+
+
 
 ### Home Page
 <img width="1365" height="639" alt="Screenshot 2026-09-04 085123" src="https://github.com/user-attachments/assets/13045835-9c63-4fac-8449-230f62b50f45" />
