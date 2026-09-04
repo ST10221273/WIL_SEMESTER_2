@@ -370,6 +370,10 @@ The application will automatically seed:
 
 ## 📸 Screenshots
 
+###
+<img width="1297" height="592" alt="Screenshot 2026-09-04 085702" src="https://github.com/user-attachments/assets/bd3e19eb-c4e4-4c14-a38a-df413f59f5f2" />
+
+
 ### Home Page
 <img width="1365" height="639" alt="Screenshot 2026-09-04 085123" src="https://github.com/user-attachments/assets/13045835-9c63-4fac-8449-230f62b50f45" />
 
