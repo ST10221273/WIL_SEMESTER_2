@@ -446,7 +446,3 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 **Made with ❤️ in South Africa 🇿🇦**
 ```
-
----
-
- overview of the Mzansi Auto Repairs project, including setup instructions, features, database structure, and future enhancements! 🇿🇦
