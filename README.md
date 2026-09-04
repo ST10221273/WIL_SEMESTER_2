@@ -370,7 +370,7 @@ The application will automatically seed:
 
 ## 📸 Screenshots
 
-###
+### Firebase
 <img width="1297" height="592" alt="Screenshot 2026-09-04 085702" src="https://github.com/user-attachments/assets/bd3e19eb-c4e4-4c14-a38a-df413f59f5f2" />
 
 
