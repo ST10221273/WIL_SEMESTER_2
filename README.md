@@ -449,37 +449,4 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-## 📁 Project Structure
-
-```
-mzansi-auto-repairs/
-│
-├── index.html                 # Home page
-├── services.html              # Services page
-├── about.html                 # About page
-├── contact.html               # Contact page
-├── reviews.html               # Reviews page
-├── login.html                 # Login/Register page
-├── dashboard.html             # User dashboard
-├── admin.html                 # Admin dashboard
-├── add-vehicle.html           # Add vehicle form
-├── vehicles.html              # User vehicles list
-├── bookings.html              # User bookings list
-├── messages.html              # User messages
-│
-├── js/
-│   ├── firebase-config.js     # Firebase configuration
-│   ├── auth.js               # Authentication functions
-│   ├── bookings.js           # Booking functions
-│   └── vehicles.js           # Vehicle functions
-│
-├── images/                    # Image assets
-│   └── logo.png              # Logo image
-│
-├── README.md                  # Documentation
-└── LICENSE                    # MIT License
-```
-
-
-
-This README provides a complete overview of the Mzansi Auto Repairs project, including setup instructions, features, database structure, and future enhancements! 🇿🇦
+ overview of the Mzansi Auto Repairs project, including setup instructions, features, database structure, and future enhancements! 🇿🇦
