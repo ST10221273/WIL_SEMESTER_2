@@ -371,16 +371,41 @@ The application will automatically seed:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400/0b1d2e/d4a843?text=Home+Page)
+<img width="1365" height="639" alt="Screenshot 2026-09-04 085123" src="https://github.com/user-attachments/assets/13045835-9c63-4fac-8449-230f62b50f45" />
+
+<img width="1365" height="670" alt="Screenshot 2026-09-04 085140" src="https://github.com/user-attachments/assets/cdffa594-9ad8-41f4-a465-11cf7937b96a" />
+
+### reviews
+<img width="1364" height="671" alt="Screenshot 2026-09-04 085303" src="https://github.com/user-attachments/assets/ea0ac058-e28a-418b-8e40-42840549d181" />
+
+### about us page
+<img width="1336" height="676" alt="Screenshot 2026-09-04 085500" src="https://github.com/user-attachments/assets/063f120d-631d-4d6a-bb9d-673f8e6368b9" />
+
 
 ### Services Page
-![Services Page](https://via.placeholder.com/800x400/0b1d2e/d4a843?text=Services+Page)
+<img width="1365" height="706" alt="Screenshot 2026-09-04 084946" src="https://github.com/user-attachments/assets/03e50e34-d911-43c5-a2bb-64b2f8028002" />
+
+<img width="1356" height="647" alt="Screenshot 2026-09-04 085031" src="https://github.com/user-attachments/assets/e646314a-29a6-4b8a-94d0-e8f6ba9f94ba" />
+
+### Contact page
+<img width="1365" height="680" alt="Screenshot 2026-09-04 085358" src="https://github.com/user-attachments/assets/526d6f23-6c50-44e1-a55f-9fc188e285c6" />
+
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/0b1d2e/d4a843?text=Dashboard)
+<img width="1363" height="670" alt="Screenshot 2026-09-04 084859" src="https://github.com/user-attachments/assets/d510b67b-00d5-4fc2-85e2-f26eeb32ebdd" />
+
 
 ### Admin Panel
-![Admin Panel](https://via.placeholder.com/800x400/0b1d2e/d4a843?text=Admin+Panel)
+
+<img width="1314" height="617" alt="Screenshot 2026-09-04 084428" src="https://github.com/user-attachments/assets/eafa16ca-638c-40d4-943c-8a2ecfb4a3c6" />
+
+<img width="1310" height="462" alt="Screenshot 2026-09-04 084444" src="https://github.com/user-attachments/assets/53972705-d1f5-4168-9f42-42c23727c4b8" />
+
+### LOGIN
+<img width="1350" height="661" alt="Screenshot 2026-09-04 084654" src="https://github.com/user-attachments/assets/97f935ea-662e-40fb-9cce-85083a49c448" />
+
+### REGISTER
+<img width="1326" height="665" alt="Screenshot 2026-09-04 084802" src="https://github.com/user-attachments/assets/d82996dd-688e-4652-8fe6-d2dbe1c4bcec" />
 
 ---
 
